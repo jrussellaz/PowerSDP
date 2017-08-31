@@ -1,0 +1,23 @@
+﻿<Project>
+  <Version>2.0</Version>
+  <FileID>82d75005-8de0-45d0-87a5-e49b191142f2</FileID>
+  <ProjectType>1</ProjectType>
+  <Folders>
+    <Folder>MEFunctions</Folder>
+  </Folders>
+  <Files>
+    <File Build="2">PowerSDP.psd1</File>
+    <File Build="0">PowerSDP.psm1</File>
+    <File Build="1" Shared="False">Test-Module.ps1</File>
+    <File Build="2" Shared="False">MEFunctions\Add-MEWorkItem.ps1</File>
+    <File Build="2" Shared="False">MEFunctions\Close-MERequest.ps1</File>
+    <File Build="2" Shared="False">MEFunctions\Get-MERequest.ps1</File>
+    <File Build="2" Shared="False">MEFunctions\Set-MEResolution.ps1</File>
+    <File Build="2" Shared="False">MEFunctions\Get-MEResoloution.ps1</File>
+    <File Build="2" Shared="False">MEFunctions\Get-MERequestNotes.ps1</File>
+    <File Build="2" Shared="False">MEFunctions\Get-MERequestWorkLog.ps1</File>
+    <File Build="2" Shared="False">MEFunctions\Get-MERequestFilter.ps1</File>
+    <File Build="2" Shared="False">MEFunctions\Get-MEApprovals.ps1</File>
+  </Files>
+  <StartupScript>C:\Users\PEZ\Documents\Mater-Repo\Projects\PowerSDP\Test-Module.ps1</StartupScript>
+</Project>
